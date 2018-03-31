@@ -1,0 +1,8 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: liyuanyuan
+ * Creation Date: 22 nov. 2017 at 17:19:11
+ *********************************************/
+
+Customers = {"Albert","Bob","Chris","Daniel"};
+poid= [1,2,3,4];
